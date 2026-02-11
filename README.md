@@ -37,3 +37,7 @@
 
 
 ### 🛠️ Tools & Skills Demonstrated
+PostgreSQL : Metric calculation, aggregation, segmentation
+Tableau: Explanatory and tactical dashboard design
+Analytical Thinking: Vendor segmentation, Pareto analysis, skew-aware benchmarking
+Business Communication: Translating data into leadership-level insights
