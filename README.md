@@ -14,6 +14,12 @@
   - **Exploratory /  Explanatory:** 
   - **Operational / Analytical / Strategic / Tactical:**
 
+### ✨ Data Cleaning
+
+##### Issues Log Summary Table
+| Dataset | Issue | Rows Affected | Solution |
+|--------|--------|---------|--------|
+|  |  |  |  |
 
 ### 🔍 Analytical Approach
 
