@@ -6,6 +6,8 @@
 
 ### 📊 Project Overview
 
+This project analyses consumer spending behaviour for **GoCard**, a retail credit card offered by Heicoders Bank. The objective is to uncover transaction patterns and generate actionable insights to help Product and Marketing teams increase card usage and transaction volume. The project includes an end-to-end analytics workflow culminating in an interactive Tableau dashboard and business recommendations.
+
 ### 🧭 Business Context & Audience
 
 - **Audience:** 
