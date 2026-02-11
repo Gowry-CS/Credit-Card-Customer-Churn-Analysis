@@ -17,16 +17,14 @@ This project analyses consumer spending behaviour for **GoCard**, a retail credi
     
 - **Business Question:** 
 - **Dashboard Type:**  
-  - **Explanatory**, **Operational & Strategic Dashboard**
+  - **Explanatory, Operational & Strategic Dashboard**  
     The dashboard enables stakeholders to:
-    
-            - Monitor credit card transaction trends and spending categories
-    
-            - Analyse customer segmentation and usage patterns
-    
-            - Identify high-value customers and growth opportunities
-    
-            - Support decision-making through interactive filters and drill-down capabilities 
+
+    - Monitor credit card transaction trends and spending categories
+    - Analyse customer segmentation and usage patterns
+    - Identify high-value customers and growth opportunities
+    - Support decision-making through interactive filters and drill-down capabilities
+
 
 ### ✨ Data Cleaning
 
