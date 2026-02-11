@@ -12,9 +12,9 @@ This project analyses consumer spending behaviour for **GoCard**, a retail credi
 
 - **Audience:**
     - Product Team – To optimise credit card features, benefits, and customer engagement strategies
-    - Marketing Team – To design targeted campaigns that increase transaction frequency and customer retention
     - Head of Product – To support data-driven strategic decisions for GoCard growth
-      
+    - Marketing Team – To design targeted campaigns that increase transaction frequency and customer retention
+    
 - **Business Question:** 
 - **Dashboard Type:**  
   - **Exploratory /  Explanatory:** 
